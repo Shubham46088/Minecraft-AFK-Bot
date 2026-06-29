@@ -1,5 +1,5 @@
 {
-  "serverHost": "RBDSMP.aternos.me:20526",
+  "serverHost": "RBDSMP.aternos.me",
   "serverPort": 20526,
   "botUsername": "IceLaterBot",
   "botChunk": 1
